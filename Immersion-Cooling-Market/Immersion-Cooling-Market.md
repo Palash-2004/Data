@@ -1,8 +1,4 @@
-<p>&nbsp;</p>
-<ul>
 <h1 data-start="274" data-end="348"><strong data-start="274" data-end="348">Japan Immersion Cooling Market Industry Analysis: Opportunities &amp; Key Players</strong></h1>
-</li>
-</ul>
 <h1>&nbsp;</h1>
 <p>&nbsp;</p>
 <p>Immersion Cooling Market Size, Share &amp; Trends Analysis Report By Type (Single Phase Immersion Cooling, Two-Phase Immersion Cooling), By Cooling Fluid (Mineral Oil, Synthetic, Fluorocarbon-Based, Others), By Application (High-performance Computing, Artificial Intelligence, Edge Computing, Cryptocurrency Mining, Others), Global Economy Insights, Regional Outlook, Growth Potential, Price Trends, Competitive Market Share &amp; Forecast, 2024 - 2032</p>
